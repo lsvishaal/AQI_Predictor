@@ -1,0 +1,10 @@
+Date,Country,Status,predicted_aqi,Year,Month,Day,datatype
+2024-06-06,India,Hazardous,496,2024,6,6,obtained
+2024-06-06,India,Hazardous,496,2024,6,6,obtained
+2024-06-13,India,Very Unhealthy,208,2024,6,13,obtained
+2024-06-20,India,Hazardous,517,2024,6,20,obtained
+2024-06-27,India,Very Unhealthy,278,2024,6,27,obtained
+2024-07-04,India,Hazardous,305,2024,7,4,obtained
+2024-07-11,India,Unhealthy,187,2024,7,11,obtained
+2024-07-18,India,Unhealthy,186,2024,7,18,obtained
+2024-07-25,India,Unhealthy,190,2024,7,25,obtained

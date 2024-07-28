@@ -1,0 +1,103 @@
+Date,Country,Status,AQI Value
+2022-07-21,India,Unhealthy,162
+2022-07-21,India,Unhealthy,162
+2022-07-22,India,Very Unhealthy,226
+2022-07-22,India,Unhealthy,160
+2022-07-22,India,Unhealthy,153
+2022-07-23,India,Unhealthy for Sensitive Groups,141
+2022-07-23,India,Unhealthy for Sensitive Groups,146
+2022-07-24,India,Unhealthy for Sensitive Groups,147
+2022-07-25,India,Unhealthy for Sensitive Groups,146
+2022-07-26,India,Unhealthy,152
+2022-07-26,India,Unhealthy,155
+2022-07-27,India,Unhealthy,163
+2022-07-28,India,Unhealthy,164
+2022-07-29,India,Unhealthy,151
+2022-07-30,India,Unhealthy for Sensitive Groups,148
+2022-07-31,India,Unhealthy,160
+2022-08-01,India,Unhealthy,159
+2022-08-02,India,Very Unhealthy,287
+2022-08-03,India,Very Unhealthy,213
+2022-08-04,India,Unhealthy,180
+2022-08-05,India,Unhealthy,198
+2022-08-06,India,Very Unhealthy,216
+2022-08-07,India,Unhealthy,159
+2022-08-08,India,Hazardous,380
+2022-08-09,India,Unhealthy,156
+2022-08-10,India,Unhealthy for Sensitive Groups,150
+2022-08-11,India,Unhealthy for Sensitive Groups,124
+2022-08-12,India,Unhealthy,161
+2022-08-13,India,Very Unhealthy,234
+2022-08-14,India,Unhealthy,162
+2022-08-15,India,Unhealthy for Sensitive Groups,149
+2022-08-16,India,Unhealthy,171
+2022-08-17,India,Unhealthy,162
+2022-08-18,India,Unhealthy,170
+2022-08-19,India,Unhealthy,153
+2022-08-20,India,Unhealthy,168
+2022-08-21,India,Unhealthy,162
+2022-08-22,India,Unhealthy,181
+2022-08-23,India,Unhealthy,174
+2022-08-23,India,Unhealthy,159
+2022-08-24,India,Unhealthy,167
+2022-08-25,India,Unhealthy,172
+2022-08-26,India,Very Unhealthy,214
+2022-08-27,India,Unhealthy,172
+2022-08-28,India,Unhealthy,183
+2022-08-29,India,Unhealthy,179
+2022-08-30,India,Very Unhealthy,275
+2022-08-31,India,Unhealthy,183
+2022-09-01,India,Unhealthy,184
+2022-09-02,India,Unhealthy,174
+2022-09-03,India,Unhealthy,163
+2022-09-04,India,Unhealthy,173
+2022-09-05,India,Unhealthy,158
+2022-09-06,India,Unhealthy,188
+2022-09-07,India,Very Unhealthy,239
+2022-09-08,India,Unhealthy,175
+2022-09-09,India,Unhealthy,176
+2022-09-10,India,Unhealthy,163
+2022-09-11,India,Unhealthy,157
+2022-09-12,India,Unhealthy,155
+2022-09-13,India,Unhealthy for Sensitive Groups,150
+2022-09-14,India,Unhealthy,190
+2022-09-15,India,Unhealthy,156
+2022-09-16,India,Unhealthy,160
+2022-09-17,India,Unhealthy,155
+2022-09-18,India,Unhealthy,173
+2022-09-19,India,Unhealthy,164
+2022-09-20,India,Unhealthy,167
+2022-09-21,India,Unhealthy,155
+2022-09-22,India,Unhealthy,185
+2022-09-22,India,Unhealthy,156
+2023-01-12,India,Hazardous,332
+2023-03-30,India,Unhealthy,172
+2023-04-06,India,Unhealthy,174
+2023-04-13,India,Very Unhealthy,231
+2023-04-20,India,Very Unhealthy,235
+2023-04-27,India,Very Unhealthy,256
+2023-05-04,India,Unhealthy,181
+2023-05-11,India,Very Unhealthy,218
+2023-05-18,India,Hazardous,394
+2023-05-25,India,Unhealthy,181
+2023-06-01,India,Unhealthy,167
+2023-06-08,India,Very Unhealthy,251
+2023-06-15,India,Hazardous,478
+2023-06-22,India,Very Unhealthy,207
+2023-06-29,India,Unhealthy,161
+2023-07-06,India,Unhealthy,158
+2023-07-13,India,Unhealthy,163
+2023-07-20,India,Unhealthy for Sensitive Groups,139
+2023-07-27,India,Unhealthy,160
+2023-08-03,India,Unhealthy,156
+2023-08-10,India,Unhealthy,159
+2023-08-10,India,Unhealthy,163
+2024-06-06,India,Hazardous,496
+2024-06-06,India,Hazardous,496
+2024-06-13,India,Very Unhealthy,208
+2024-06-20,India,Hazardous,517
+2024-06-27,India,Very Unhealthy,278
+2024-07-04,India,Hazardous,305
+2024-07-11,India,Unhealthy,187
+2024-07-18,India,Unhealthy,186
+2024-07-25,India,Unhealthy,190
